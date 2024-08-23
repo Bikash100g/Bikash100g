@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning ethical hacking
 - 💞️ I’m looking to collaborate on cyber security projects
-- 📫 How to reach me via linkedLn Bikash Gharti : https://www.linkedin.com/in/bikash-gharti-2345892ba/
+- 📫 How to reach me via linkedIn Bikash Gharti : https://www.linkedin.com/in/bikash-gharti-2345892ba/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
