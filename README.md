@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bikash100g
-- 👀 I’m interested in Python Programming and Machine Learning
+- 👀 I’m interested in Python Programming ,Machine Learning and AI.
 - 🌱 I’m currently studying Computer Science
 - 💞️ I’m always open to collaborate with different tech startups 
 - 📫 You can reach me via linkedIn Bikash Gharti : https://www.linkedin.com/in/bikashgharti/
